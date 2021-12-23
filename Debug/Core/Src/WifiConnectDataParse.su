@@ -1,0 +1,2 @@
+WifiConnectDataParse.c:22:6:BufferReset1	16	static
+WifiConnectDataParse.c:32:6:DataConnectionControl	8	static
